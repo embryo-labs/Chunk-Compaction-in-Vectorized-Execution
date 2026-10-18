@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If this research artifact contributes to your work, please cite the preferred paper."
+type: software
+title: "Data Chunk Compaction in Vectorized Execution (research artifact)"
+url: "https://github.com/embryo-labs/Chunk-Compaction-in-Vectorized-Execution"
+authors:
+  - family-names: "Qiao"
+    given-names: "Yiming"
+  - family-names: "Zhang"
+    given-names: "Huanchen"
+preferred-citation:
+  type: article
+  title: "Data Chunk Compaction in Vectorized Execution"
+  journal: "Proceedings of the ACM on Management of Data"
+  volume: 3
+  issue: 1
+  year: 2025
+  doi: "10.1145/3709676"
+  authors:
+    - family-names: "Qiao"
+      given-names: "Yiming"
+    - family-names: "Zhang"
+      given-names: "Huanchen"
